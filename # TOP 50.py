@@ -1,5 +1,4 @@
 # TOP 50
-import webbrowser
 elokuvat = {
     1:{"nimi": "The Shawshank Redemption", "arvio": 9.3, "ohjaaja": "Frank Darabont", "vuosi": 1994},
     2:{"nimi": "The Godfather", "arvio": 9.2, "ohjaaja": "Francis Ford Coppola", "vuosi": 1972},
