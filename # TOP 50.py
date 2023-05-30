@@ -71,6 +71,6 @@ while True:
             print("Kiitos!")
             break
     else:
-        url = "https://www.imdb.com/chart/top/"
-        webbrowser.open(url)
+        link = "https://www.imdb.com/chart/top/"
+        print("Lisää elokuvien sijoituksia tästä linkistä:", link)
         break
